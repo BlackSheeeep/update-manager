@@ -9,7 +9,7 @@
 
 - 更新某个数据时通知依赖这个数据的所有组件渲染
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9818d20f-86b2-485a-8bb6-d860f6581517/Untitled.png)
+![Example](./example.png)
 
 例如你有一个数据**test**，红色的 b 组件和 c 组件都依赖这个数据更新，update-manager 可以帮助你自动通知 B 和 C 渲染而不影响 Root 和 A。
 
