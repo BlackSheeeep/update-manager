@@ -1,6 +1,14 @@
 {
-  "name": "@xiaolaji/update-manager",
+  "name": "@woshilaji/update-manager",
   "version": "1.0.0",
   "main": "src/index.js",
-  "repository": "https://github.com/BlackSheeeep/update-manager"
+  "repository": "https://github.com/BlackSheeeep/update-manager",
+  "keywords": [
+    "react",
+    "react-native",
+    "渲染粒度",
+    "响应式渲染",
+    "体积小",
+    "javascript"
+  ]
 }
