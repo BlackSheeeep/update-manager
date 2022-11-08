@@ -11,11 +11,11 @@
 
 ### 怎么用
 
-- npm install —save @weishenmebunengyongzhongwen/update-manager
+- npm install —save @woshilaji/update-manager
 - 在根组件中引入
 
 ```jsx
-import UpdateManager from "@weishenmebunengyongzhongwen/update-manager";
+import UpdateManager from "@woshilaji/update-manager";
 ```
 
 - 创建实例
@@ -64,7 +64,7 @@ useEffect(() => {
 完整代码：
 
 ```jsx
-import UpdateManager from '@weishenmebunengyongzhongwen/update-manager';
+import UpdateManager from '@woshilaji/update-manager';
 function Root () {
  const updateManager = new UpdateManager({
 /*可选的初始化数据 最好加上*/
