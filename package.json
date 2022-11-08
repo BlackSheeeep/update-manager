@@ -1,5 +1,5 @@
 {
-  "name": "@weishenmebunengyongzhongwen/update-manager",
+  "name": "@xiaolaji/update-manager",
   "version": "1.0.2",
   "main": "src/index.js",
   "repository": "https://github.com/BlackSheeeep/update-manager"
